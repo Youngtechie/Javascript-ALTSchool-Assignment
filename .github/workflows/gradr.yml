@@ -3,7 +3,7 @@ name: Gradr
 on:
   push:
     branches:
-    - main
+    - My_branch
 
 jobs:    
   autograde:
